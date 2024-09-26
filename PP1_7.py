@@ -15,14 +15,14 @@ def q2():
 def q3():
   #Write code here
 
-  bool1= input("Input a letter a: ")
+  bool1= input("Input the letter a: ")
   bool1= (bool1 == "a")
   print(bool1)
 
 def q4():
   #Write code here
   bool1= input("Input a word earlier in the dictionary than google: ")
-  bool1= (bool1 > "google")
+  bool1= (bool1 < "google")
   print(bool1)
 
 def q5():
