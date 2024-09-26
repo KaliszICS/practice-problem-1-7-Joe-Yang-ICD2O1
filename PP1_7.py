@@ -8,14 +8,14 @@ def q1():
 def q2():
   #Write code here
 
-  bool1= input("Input an integer")
+  bool1= input("Input an integer: ")
   bool1= (bool1 > 5)
   print(bool1)
 
 def q3():
   #Write code here
 
-  bool1= input("Input a letter a")
+  bool1= input("Input a letter a: ")
   bool1= (bool1 == "a")
   print(bool1)
 
@@ -28,8 +28,8 @@ def q4():
 def q5():
   #Write code here
 
-  bool1= int(input("Input a integer"))
-  bool2= int(input("Input another integer"))
+  bool1= int(input("Input a integer: "))
+  bool2= int(input("Input another integer: "))
   bool1= (bool1 * bool2)
   print(bool1 > 40)
 
