@@ -28,7 +28,7 @@ def q4():
 def q5():
   #Write code here
 
-  bool1= int(input("Input a integer: "))
+  bool1= int(input("Input an integer: "))
   bool2= int(input("Input another integer: "))
   print(f"Your numbers multiplied together are greater than 40: {bool1 * bool2 > 40}")
 
