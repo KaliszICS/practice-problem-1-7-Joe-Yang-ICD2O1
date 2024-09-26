@@ -1,8 +1,8 @@
 '''
     Lesson: Booleans
     Author: Joe Yang
-    Date Creatd: Sept 25, 2024
-    Date Last Modified: Sept 25, 2024
+    Date Creatd: Sept 26, 2024
+    Date Last Modified: Sept 26, 2024
 '''
 
 def q1():
